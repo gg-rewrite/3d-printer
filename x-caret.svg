@@ -35,9 +35,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="19.149817"
-     inkscape:cx="191.82102"
-     inkscape:cy="88.054701"
+     inkscape:zoom="13.540965"
+     inkscape:cx="239.55098"
+     inkscape:cy="245.22048"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -269,6 +269,13 @@
        position="53.694472,21.5"
        orientation="0,1"
        id="guide1085"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="46.816578,78.5"
+       orientation="0,1"
+       id="guide1125"
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
@@ -519,6 +526,30 @@
        id="path921-62-7"
        cx="58"
        cy="275.5"
+       r="0.098081745" />
+    <circle
+       style="opacity:0.60799997;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.31795499;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1087-0"
+       cx="42"
+       cy="218.5"
+       r="2.3410227" />
+    <circle
+       style="opacity:0.60799997;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.31795499;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1087-9"
+       cx="58"
+       cy="218.5"
+       r="2.3410227" />
+    <circle
+       style="opacity:0.60799997;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.30383652;stroke-miterlimit:4;stroke-dasharray:1.82301904, 0.3038365;stroke-dashoffset:0;stroke-opacity:1"
+       id="path921-36"
+       cx="58"
+       cy="218.5"
+       r="0.098081745" />
+    <circle
+       style="opacity:0.60799997;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.30383652;stroke-miterlimit:4;stroke-dasharray:1.82301904, 0.3038365;stroke-dashoffset:0;stroke-opacity:1"
+       id="path921-0"
+       cx="42"
+       cy="218.55"
        r="0.098081745" />
   </g>
 </svg>
