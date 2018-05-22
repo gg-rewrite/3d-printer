@@ -15,7 +15,7 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg4042"
-   inkscape:version="0.92.2 2405546, 2018-03-11"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    sodipodi:docname="x-table.svg">
   <defs
      id="defs4036">
@@ -36,13 +36,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.656854"
-     inkscape:cx="309.08051"
-     inkscape:cy="3.2511366"
+     inkscape:cx="236.16483"
+     inkscape:cy="654.59865"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="766"
+     inkscape:window-width="3840"
+     inkscape:window-height="2095"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -161,7 +161,7 @@
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="-21.166667,34.4"
+       position="-21.166667,40"
        orientation="0,1"
        id="guide112"
        inkscape:locked="false"
@@ -196,54 +196,6 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <circle
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.12907939;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path6395"
-       cx="42"
-       cy="275.5"
-       r="2.4354603" />
-    <circle
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.12907939;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path6395-3"
-       cx="58"
-       cy="275.5"
-       r="2.4354603" />
-    <circle
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.12907939;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path6395-6"
-       cx="42"
-       cy="118.5"
-       r="2.4354603" />
-    <circle
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.12907939;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path6395-7"
-       cx="58"
-       cy="118.5"
-       r="2.4354603" />
-    <circle
-       id="path176"
-       cx="42"
-       cy="118.5"
-       style="stroke-width:0.32487658"
-       r="0.5" />
-    <circle
-       id="path176-5"
-       cx="58"
-       cy="118.5"
-       style="stroke-width:0.32487658"
-       r="0.5" />
-    <circle
-       id="path176-3"
-       cx="58"
-       cy="275.5"
-       style="stroke-width:0.32487658"
-       r="0.5" />
-    <circle
-       id="path176-56"
-       cx="42"
-       cy="275.5"
-       style="stroke-width:0.32487658"
-       r="0.5" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 5.9999998,147 H 93.999999 V 247 H 5.9999998 Z"
@@ -251,7 +203,7 @@
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 42,297 v -6.00001 H 0 v -15.5 H 5.9999998 V 262.6 H 0 V 137 H 5.9999998 V 118.5 H 0 V 103 H 42 V 97.000001 H 58 V 103 h 41.999997 v 15.5 H 93.999999 V 137 h 5.999998 v 110 15.6 h -5.999998 v 12.89999 h 5.999998 v 15.5 H 93.999999 L 94,291 l -10e-7,-10e-6 H 58 V 297 Z"
+       d="m 42,297 v -6.00001 H 0 v -15.5 H 5.9999998 L 6,257 H 0 V 137 H 5.9999998 V 118.5 H 0 V 103 H 42 V 97.000001 H 58 V 103 h 41.999997 v 15.5 H 93.999999 V 137 h 5.999998 v 110 l 3e-6,10 h -6 l -10e-7,18.49999 h 5.999998 v 15.5 H 93.999999 L 94,291 l -10e-7,-10e-6 H 58 V 297 Z"
        id="path476"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccccccccccccccccc" />
