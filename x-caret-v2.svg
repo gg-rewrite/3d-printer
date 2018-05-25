@@ -27,7 +27,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
      inkscape:cx="260.90291"
-     inkscape:cy="140.8413"
+     inkscape:cy="197.40984"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -37,7 +37,8 @@
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
-     inkscape:guide-bbox="true">
+     inkscape:guide-bbox="true"
+     inkscape:snap-to-guides="true">
     <sodipodi:guide
        position="68.955537,100"
        orientation="0,1"
@@ -358,13 +359,13 @@
        cy="272"
        r="1.6746898" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 6,219.5 12.5,0 0,54.99999 H 5.9999998 Z"
        id="path1460"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="M 93.999999,274.49999 H 81.5 l 0,-54.99999 12.5,0 z"
        id="path1462"
        inkscape:connector-curvature="0"
@@ -390,7 +391,7 @@
        id="path1490"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 0,297 v -6.00001 h 5.9999998 v -14 H 0 v -14.5 h 1.5 v -2 H 0 v -27 h 1.5 v -2 L 0,231.42539 v -14.42542 h 5.9999998 v -14 H 0 v -6 h 18.5 v 6 h 15.999999 v -6 h 30.999999 v 6 H 81.5 v -6 h 18.499997 v 6 h -5.999998 v 14 h 5.999998 l 1e-6,14.50739 L 98.5,231.5 l 0,2 1.499998,-0.008 L 100,260.5 h -1.5 v 2 l 1.499997,0.006 v 14.49444 h -5.999998 v 14 h 5.999998 V 297 H 81.5 v -6.00001 H 65.499998 V 297 H 34.499999 v -6.00001 H 18.5 V 297 Z"
        id="path1492"
        inkscape:connector-curvature="0"

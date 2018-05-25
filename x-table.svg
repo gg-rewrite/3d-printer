@@ -37,7 +37,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.99999996"
      inkscape:cx="331.15023"
-     inkscape:cy="563.16688"
+     inkscape:cy="363.16687"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -73,20 +73,6 @@
        position="-21.922619,194"
        orientation="0,1"
        id="guide6367"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="39.309523,50"
-       orientation="0,1"
-       id="guide6369"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="45.357142,150"
-       orientation="0,1"
-       id="guide6371"
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
@@ -165,6 +151,20 @@
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="28.310417,50"
+       orientation="0,1"
+       id="guide1238"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="24.870834,150"
+       orientation="0,1"
+       id="guide1240"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
   </sodipodi:namedview>
   <metadata
      id="metadata4039">
@@ -182,11 +182,6 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 5.9999998,147 H 93.999999 V 247 H 5.9999998 Z"
-       id="path122"
-       inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 42,297 v -6.00001 H 0 v -15.5 H 5.9999998 L 6,257 H 0 V 137 H 5.9999998 V 118.5 H 0 V 103 H 42 V 97.000001 H 58 V 103 h 41.999997 v 15.5 H 93.999999 V 137 h 5.999998 v 110 l 3e-6,10 h -6 l -10e-7,18.49999 h 5.999998 v 15.5 H 93.999999 L 94,291 l -10e-7,-10e-6 H 58 V 297 Z"
