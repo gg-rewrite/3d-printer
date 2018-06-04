@@ -116,9 +116,9 @@
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="36.48229,40"
+       position="17.506154,3"
        orientation="0,1"
-       id="guide1454"
+       id="guide5350"
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
@@ -172,7 +172,7 @@
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.06045343;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path454-5"
        cx="26"
-       cy="257"
+       cy="294"
        r="1.9697733" />
     <circle
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.06045343;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -190,7 +190,7 @@
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.06045343;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path454-5-6"
        cx="74"
-       cy="257"
+       cy="294"
        r="1.9697733" />
   </g>
 </svg>
