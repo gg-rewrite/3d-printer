@@ -36,7 +36,7 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true">
     <sodipodi:guide
        position="41.426776,20"
@@ -202,20 +202,6 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <ellipse
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.08807132;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="path1154"
-       cx="3"
-       cy="287"
-       rx="0.20596433"
-       ry="0.20596434" />
-    <ellipse
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.08807132;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="path1154-3"
-       cx="97"
-       cy="287"
-       rx="0.20596433"
-       ry="0.20596434" />
     <circle
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.15965353;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path1714"
@@ -247,18 +233,6 @@
        cy="290.5"
        rx="3.828711"
        ry="3.8287113" />
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.08807132;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="path1154-5"
-       cx="18"
-       cy="290.5"
-       r="0.20596434" />
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.08807132;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="path1154-5-3"
-       cx="82"
-       cy="290.5"
-       r="0.20596434" />
     <circle
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.15965353;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path1714-3"
