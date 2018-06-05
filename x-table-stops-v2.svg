@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="6.9988225"
-     inkscape:cx="301.28316"
-     inkscape:cy="12.626959"
+     inkscape:zoom="9.8978297"
+     inkscape:cx="266.64024"
+     inkscape:cy="20.754634"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -171,6 +171,41 @@
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="47.481795,4"
+       orientation="0,1"
+       id="guide730"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="25,1.6306185"
+       orientation="1,0"
+       id="guide732"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="29,1.5236927"
+       orientation="1,0"
+       id="guide734"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="71,2.5394878"
+       orientation="1,0"
+       id="guide736"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="75,2.7800708"
+       orientation="1,0"
+       id="guide738"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
   </sodipodi:namedview>
   <metadata
      id="metadata1006">
@@ -180,7 +215,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -215,10 +250,11 @@
        cy="287"
        r="1.9201733" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 0,276.99999 h 27.999999 v 6.50002 H 26.5 v 3.49998 h 6.999999 v -3.49998 h -1.5 v -6.50002 h 35.999999 v 6.50002 h -1.5 v 3.49998 h 7 v -3.49998 h -1.5 v -6.50002 H 99.999997 V 297 H 0 Z"
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 0,276.99999 h 27.999999 v 6.50002 H 26.5 v 3.49998 h 6.999999 v -3.49998 h -1.5 v -6.50002 h 35.999999 v 6.50002 h -1.5 v 3.49998 h 7 v -3.49998 h -1.5 v -6.50002 H 99.999997 V 297 H 75 v -4 h -4 l 0,4 H 29 v -4 h -4 l -0.03283,4 H 0 Z"
        id="path1731"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
     <circle
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.34257793;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path2106"
